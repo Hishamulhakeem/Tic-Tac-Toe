@@ -34,7 +34,7 @@ This is a simple Tic-Tac-Toe game implemented in Java. The game allows two playe
 - Player 1 uses 'X', and Player 2 uses 'O'.
 - Players take turns placing their mark in an empty cell.
 - The first player to get three marks in a row (horizontally, vertically, or diagonally) wins.
-- If all 9 cells are filled without a winner, the game ends in a draw.
+- If all 9 cells are filled without a winner, the game ends in drawn .
 
 ## Future Enhancements
 - Implement a GUI version using Java Swing or JavaFX.
